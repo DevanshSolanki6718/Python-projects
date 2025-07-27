@@ -1,16 +1,45 @@
-<h1>1. Saathi.py - A personal voice assistant:</h1>
+# Saathi.py – A Personal Voice Assistant
 
-   Saathi is an intelligent, speech-powered AI assistant built with Python that listens to your commands and helps you perform tasks hands-free. Whether it's browsing the web, telling a joke, or fetching the current time — Saathi is here to assist you like a true companion.
+**Saathi** is an intelligent, speech-powered AI assistant built with Python. It listens to your commands and helps you perform tasks hands-free. Whether it's browsing the web, telling a joke, or fetching the current time — Saathi is your true digital companion.
 
-   <h2>Features:</h2><br>
-    a. Voice Recognition – Understands and processes your voice commands
-  
-    b. Text-to-Speech – Responds with natural-sounding speech using pyttsx3
-  
-    c. Web Search & Browsing – Opens websites on command
-  
-    d. Time Telling – Tells you the current time
-  
-    e. Joke Telling – Lightens your mood with a joke using pyjokes
-  
-    f. Modular Design – Easily extendable with new features 
+---
+
+## 🔧 Features
+
+- 🎤 **Voice Recognition**  
+  Understands and processes your voice commands
+
+- 🗣️ **Text-to-Speech**  
+  Responds with natural-sounding speech using `pyttsx3`
+
+- 🌐 **Web Search & Browsing**  
+  Opens websites on voice command
+
+- 🕒 **Time Telling**  
+  Tells you the current time
+
+- 😂 **Joke Telling**  
+  Lightens your mood with jokes using `pyjokes`
+
+- 🧩 **Modular Design**  
+  Easily extendable with new features
+
+---
+
+## 💡 Technologies Used
+
+- Python
+- `speech_recognition`
+- `pyttsx3`
+- `webbrowser`
+- `pyjokes`
+- `datetime`
+- `os`
+
+---
+
+## 🚀 Getting Started
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/DevanshSolanki6718/Python-projects.git
