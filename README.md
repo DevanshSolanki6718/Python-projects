@@ -1,4 +1,4 @@
-# Saathi.py – A Personal Voice Assistant
+# 1. Saathi.py – A Personal Voice Assistant
 
 **Saathi** is an intelligent, speech-powered AI assistant built with Python. It listens to your commands and helps you perform tasks hands-free. Whether it's browsing the web, telling a joke, or fetching the current time — Saathi is your true digital companion.
 
