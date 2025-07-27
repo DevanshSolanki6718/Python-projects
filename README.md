@@ -2,7 +2,7 @@
 
    Saathi is an intelligent, speech-powered AI assistant built with Python that listens to your commands and helps you perform tasks hands-free. Whether it's browsing the web, telling a joke, or fetching the current time — Saathi is here to assist you like a true companion.
 
-  🔹 Features
+  🔹 Features<br>
     a. Voice Recognition – Understands and processes your voice commands
   
     b. Text-to-Speech – Responds with natural-sounding speech using pyttsx3
