@@ -28,18 +28,11 @@
 
 ## 💡 Technologies Used
 
-- Python
+- `Python`
 - `speech_recognition`
 - `pyttsx3`
 - `webbrowser`
 - `pyjokes`
 - `datetime`
 - `os`
-
 ---
-
-## 🚀 Getting Started
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/DevanshSolanki6718/Python-projects.git
