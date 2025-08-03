@@ -1,38 +1,42 @@
-# 1. Saathi.py – A Personal Voice Assistant
+# 🎙️ Saathi.py – Your Personal Voice Assistant
 
-**Saathi** is an intelligent, speech-powered AI assistant built with Python. It listens to your commands and helps you perform tasks hands-free. Whether it's browsing the web, telling a joke, or fetching the current time — Saathi is your true digital companion.
+**Saathi** is a smart, voice-controlled assistant built with Python. Designed for hands-free productivity, Saathi helps you open applications, browse the web, tell jokes, check the time, and more — all through simple spoken commands.
 
 ---
 
-## 🔧 Features
+## 🚀 Features
 
 - 🎤 **Voice Recognition**  
-  Understands and processes your voice commands
+  Listens and understands voice commands using `speech_recognition`.
 
-- 🗣️ **Text-to-Speech**  
-  Responds with natural-sounding speech using `pyttsx3`
+- 🗣️ **Text-to-Speech Response**  
+  Replies back using a natural-sounding voice with `pyttsx3`.
 
-- 🌐 **Web Search & Browsing**  
-  Opens websites on voice command
+- 🌐 **Web Interaction**  
+  Opens Google, YouTube, or any URL on command using `webbrowser`.
 
-- 🕒 **Time Telling**  
-  Tells you the current time
+- 🕒 **Tells the Time**  
+  Announces the current time using Python's `datetime`.
 
-- 😂 **Joke Telling**  
-  Lightens your mood with jokes using `pyjokes`
+- 😂 **Jokes for Fun**  
+  Fetches and tells a random joke using the `pyjokes` module.
 
-- 🧩 **Modular Design**  
-  Easily extendable with new features
+- 📂 **File & App Launcher**  
+  Opens local applications like VS Code or files like videos, songs, or documents.
+
+- 🖥️ **System Control (Experimental)**  
+  Commands to open Chrome, camera, and more (OS-dependent).
 
 ---
 
-## 💡 Technologies Used
+## 🛠️ Technologies & Libraries
 
-- `Python`
+- `Python 3.x`
 - `speech_recognition`
 - `pyttsx3`
-- `webbrowser`
-- `pyjokes`
-- `datetime`
-- `os`
+- `webbrowser` 
+- `datetime` 
+- `os` 
+- `pyautogui` *(optional – for automation like Alt+F4)*
+
 ---
